@@ -1,0 +1,49 @@
+{
+    "short_name": "Read Later Web App",
+    "name": "Read Later Web App",
+    "icons": [
+      {
+        "src": "",
+        "type": "",
+        "sizes": "5"
+      },
+      
+    ],
+    "id": "",
+    "start_url": "",
+    "background_color": "#3367D6",
+    "display": "standalone",
+    "scope": "/",
+    "theme_color": "#3367D6",
+    "shortcuts": [
+      {
+        "name": "",
+        "short_name": "",
+        "description": "",
+        "url": "",
+        "icons": [{ "src": "", "sizes": "" }]
+      }
+    ],
+    "description": "",
+    "screenshots": [
+      {
+        "src": "",
+        "type": "",
+        "sizes": "",
+        "form_factor": ""
+      },
+      {
+        "src": "",
+        "type": "",
+        "sizes": "",
+        "form_factor": ""
+      }
+    ],
+    "action": {
+        "default_popup": "index.html",
+        "default_icon": "icon.png"
+    },
+    "permissions": [
+        "tabs"
+    ]
+  }
