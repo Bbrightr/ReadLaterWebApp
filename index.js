@@ -45,3 +45,8 @@ inputBtn.addEventListener("click", function() {
     localStorage.setItem("myLeads", JSON.stringify(myLeads) )
     render(myLeads)
 })
+
+
+// localStorage.setItem("myLeads", "www.examplelead.com")
+// let savedLeads = localStorage.getItem("myLeads")
+// console.log(savedLeads)
